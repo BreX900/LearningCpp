@@ -3,5 +3,9 @@
 #include "contenitori/main.h"
 
 int main() {
-    mainTest();
+    switch (1) {
+        case 1:
+            mainTest();
+    }
+
 }
