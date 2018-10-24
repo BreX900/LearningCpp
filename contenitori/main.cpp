@@ -19,5 +19,9 @@ int mainConenitori() {
 
     if(z == x) std::cout << "z e x sono uguali" <<" - z: "<<z<<" - x: " <<x << std::endl;
     if(x != y) std::cout << "x e y sono uguali" <<" - x: "<<x<<" - y: " <<y<< std::endl;
+
+    int p = 4;
+    double w = static_cast<double>(p)
+
     return 0;
 }
