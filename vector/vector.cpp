@@ -61,7 +61,7 @@ bool Vector::empty() const {   return !s;   }
 unsigned int Vector::size() const { return s;    }
 
 void Vector::append(const Vector &vector) {
-    *this = *this + vector;
+    *this = *this + vector~;
 }
 
 

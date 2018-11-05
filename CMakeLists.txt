@@ -4,4 +4,4 @@ project(LearningCpp)
 set(CMAKE_CXX_STANDARD 14)
 
 
-add_executable(LearningCpp main.cpp test/main.h contenitori/main.h vector/vector.cpp vector/vector.h)
+add_executable(LearningCpp main.cpp test/main.h contenitori/main.h vector/vector.cpp vector/vector.h classeTipizzate/ThreeTree.cpp classeTipizzate/ThreeTree.h)
